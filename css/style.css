@@ -117,6 +117,8 @@ button {
 .menu-address {
     font-style: normal;
     margin-left: auto;
+    display: flex;
+    gap: 40px
 }
 
 .address-link {
